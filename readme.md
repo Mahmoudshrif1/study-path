@@ -1,4 +1,4 @@
-*This study path is released under the [**CC BY-SA 4.0**](https://creativecommons.org/licenses/by-sa/4.0/) license*
+_This study path is released under the [**CC BY-SA 4.0**](https://creativecommons.org/licenses/by-sa/4.0/) license_
 
 ## Introduction
 
@@ -14,12 +14,14 @@ Enjoy!
 
 ## Getting Started
 
-- Get familiar with [the Pomodoro Technique](http://pomodorotechnique.com/) (read the [paper](assets/cirillo-pomodoro-technique.pdf)) 
+- Get familiar with [the Pomodoro Technique](http://pomodorotechnique.com/) (read the [paper](assets/cirillo-pomodoro-technique.pdf))
 - Read the [Manifesto for Agile Software Development](http://agilemanifesto.org/)
 - Read the [Principles behind the Agile Manifesto](http://agilemanifesto.org/principles.html)
 - Read the [Manifesto for Software Craftsmanship](http://manifesto.softwarecraftsmanship.org/)
 
 ## Session 1: SOLID and Clean Code
+
+- [x] read [The Object Oriented Thought Process](https://www.goodreads.com/book/show/45081002-object-oriented-thought-process-the) - added by me.
 
 - Watch [Core Design Principles for Software Developers](https://www.youtube.com/watch?v=llGgO74uXMI)
 - Read the [SOLID principles](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)

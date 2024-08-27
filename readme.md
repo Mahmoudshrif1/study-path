@@ -22,6 +22,7 @@ Enjoy!
 ## Session 1: SOLID and Clean Code
 
 - [x] read [The Object Oriented Thought Process](https://www.goodreads.com/book/show/45081002-object-oriented-thought-process-the) - added by me.
+- [x] watch [Becoming a better developer by using the SOLID design principles by Katerina Trajchevska](https://www.youtube.com/watch?v=rtmFCcjEgEw) - added by me
 
 - Watch [Core Design Principles for Software Developers](https://www.youtube.com/watch?v=llGgO74uXMI)
 - Read the [SOLID principles](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
